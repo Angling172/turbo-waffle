@@ -1,2 +1,3 @@
 # turbo-waffle
-first projectproyek untuk tugas sekolah
+first project
+project for school
